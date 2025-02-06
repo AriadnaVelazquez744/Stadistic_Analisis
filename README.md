@@ -1,10 +1,10 @@
-# Stadistic_Analisis
+# 🎨✨ Stadistic_Analisis ✨🎶
 
 Este repositorio contiene el análisis de una encuesta realizada a **178 estudiantes universitarios cubanos**, principalmente de la Universidad de La Habana, sobre sus **hábitos de consumo cultural**, como parte del proyecto final de la asignatura de estadística. El proyecto utiliza diversas herramientas de análisis estadístico y visualización para explorar las preferencias culturales, identificar patrones y realizar pruebas estadísticas relevantes.
 
 ---
 
-## Índice  
+## 📖 Índice  
 - [Stadistic\_Analisis](#stadistic_analisis)
   - [Índice](#índice)
   - [Introducción](#introducción)
@@ -16,7 +16,7 @@ Este repositorio contiene el análisis de una encuesta realizada a **178 estudia
 
 ---
 
-## Introducción  
+## 🚀 Introducción  
 El propósito de este proyecto es analizar el consumo cultural de los estudiantes universitarios y explorar la relación entre diversas variables como **edad, facultad, géneros culturales preferidos y plataformas de consumo de música**. Se aplican diferentes técnicas de análisis estadístico:  
 - **Estadística descriptiva**  
 - **Pruebas de hipótesis**  
@@ -29,7 +29,7 @@ El análisis busca proporcionar una visión clara de las preferencias culturales
 
 ---
 
-## Metodología  
+## 📊 Metodología  
 1. **Carga y limpieza de datos:** Preparación del dataset, normalización de respuestas múltiples y tratamiento de valores faltantes.  
 2. **Estadística descriptiva:** Resumen inicial de las principales variables del dataset.  
 3. **Pruebas de hipótesis:** Evaluación de relaciones significativas entre variables categóricas y numéricas.  
@@ -39,7 +39,7 @@ El análisis busca proporcionar una visión clara de las preferencias culturales
 
 ---
 
-## Estructura del Proyecto  
+## 🏗 Estructura del Proyecto  
 El análisis se encuentra organizado en un notebook de Jupyter (`Análisis_Cultural_Universitario_2024.ipynb`) con las siguientes secciones:  
 
 1. **Introducción y Preparación de Datos**  
@@ -55,7 +55,7 @@ Cada sección incluye explicaciones detalladas en celdas de Markdown para facili
 
 ---
 
-## Tecnologías Utilizadas  
+## 🛠️ Tecnologías Utilizadas  
 - **Python 3.12**  
 - **Jupyter Notebook** y **Visual Studio Code**
 - **Librerías de Python:**  
@@ -67,16 +67,16 @@ Cada sección incluye explicaciones detalladas en celdas de Markdown para facili
 
 ---
 
-## Cómo Ejecutar el Proyecto  
-1. Clona este repositorio:  
+## ▶️ Cómo Ejecutar el Proyecto  
+1. 📥 Clona este repositorio:  
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
     
-2. Instala las dependencias necesarias:
+2. 🛠 Instala las dependencias necesarias:
     ```bash
     pip install -r requirements.txt
 
-3. Abre el notebook en Jupyter:
+3. 🔧 Abre el notebook en Jupyter:
    ```bash
    jupyter notebook Análisis_Cultural_Universitario_2024.ipynb
 
@@ -84,7 +84,7 @@ Cada sección incluye explicaciones detalladas en celdas de Markdown para facili
 
 --- 
 
-## Resultados Destacados
+## 📈 Resultados Destacados
 
 - **Estadística Descriptiva**: La media de edad de los encuestados es de 21 años, con una distribución ligeramente sesgada hacia edades menores.
 - **Pruebas de Hipótesis**: Se identificaron relaciones significativas entre la facultad y la vertiente cultural consumida.
