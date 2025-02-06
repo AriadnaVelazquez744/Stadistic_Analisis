@@ -5,14 +5,14 @@ Este repositorio contiene el análisis de una encuesta realizada a **172 estudia
 ---
 
 ## 📖 Índice  
-- [Stadistic\_Analisis](#stadistic_analisis)
-  - [Índice](#índice)
-  - [Introducción](#introducción)
-  - [Metodología](#metodología)
-  - [Estructura del Proyecto](#estructura-del-proyecto)
-  - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-  - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-  - [Resultados Destacados](#resultados-destacados)
+- [🎨✨ Stadistic\_Analisis ✨🎶](#-stadistic_analisis-)
+  - [📖 Índice](#-índice)
+  - [🚀 Introducción](#-introducción)
+  - [📊 Metodología](#-metodología)
+  - [🏗 Estructura del Proyecto](#-estructura-del-proyecto)
+  - [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+  - [▶️ Cómo Ejecutar el Proyecto](#️-cómo-ejecutar-el-proyecto)
+  - [📈 Resultados Destacados](#-resultados-destacados)
 
 ---
 
@@ -88,5 +88,3 @@ Cada sección incluye explicaciones detalladas en celdas de Markdown para facili
 
 - **Estadística Descriptiva**: La media de edad de los encuestados es de 21 años, con una distribución ligeramente sesgada hacia edades menores.
 - **Pruebas de Hipótesis**: Se identificaron relaciones significativas entre la facultad y la vertiente cultural consumida.
-- **ANOVA**: Se observaron diferencias significativas en la edad según la plataforma de consumo de música.
-- **MCA y PCA**: Las primeras dos componentes principales explican el 70% de la varianza total, permitiendo visualizar patrones claros en las preferencias culturales.
