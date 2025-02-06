@@ -1,6 +1,6 @@
 # 🎨✨ Stadistic_Analisis ✨🎶
 
-Este repositorio contiene el análisis de una encuesta realizada a **178 estudiantes universitarios cubanos**, principalmente de la Universidad de La Habana, sobre sus **hábitos de consumo cultural**, como parte del proyecto final de la asignatura de estadística. El proyecto utiliza diversas herramientas de análisis estadístico y visualización para explorar las preferencias culturales, identificar patrones y realizar pruebas estadísticas relevantes.
+Este repositorio contiene el análisis de una encuesta realizada a **172 estudiantes universitarios cubanos**, principalmente de la Universidad de La Habana, sobre sus **hábitos de consumo cultural**, como parte del proyecto final de la asignatura de estadística. El proyecto utiliza diversas herramientas de análisis estadístico y visualización para explorar las preferencias culturales, identificar patrones y realizar pruebas estadísticas relevantes.
 
 ---
 
